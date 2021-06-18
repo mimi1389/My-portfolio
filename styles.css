@@ -59,33 +59,33 @@
  .thumbnailimg:hover img {
    opacity: 0.85;
  }
- footer {
-   margin-top: 0;
- }
- .page-footer {
-   text-align: center;
-   justify-content: center;
-   background-color: #505050;
-   position: relative;
-   bottom:0;
-   width: 100%;
- } 
- .txt-row {
-   padding-top: 1.5%;
- }
- .txt-row h2,p {
-   color: white;
-   font-family: 'Helvetica Neue', 'san-serif';
- }
- .txt-row h2 {
-   font-size: 1.5em;
- }
- .txt-row p {
-   font-weight: 200;
- }
- .txt-row a {
-   color: #E6DBEB;
- }
+ ffooter {
+  margin-top: 0;
+}
+.page-footer {
+  text-align: center;
+  justify-content: center;
+  background-color: #505050;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+.txt-row {
+  padding-top: 1.5%;
+}
+.txt-row h2,p {
+  color: white;
+  font-family: 'Manjari', 'san-serif';
+}
+.txt-row h2 {
+  font-size: 1.5em;
+}
+.txt-row p {
+  font-weight: 100;
+}
+.txt-row a {
+  color: #f6d6e0;
+}
  .link-row {
    display: flex;
    align-items: center;
