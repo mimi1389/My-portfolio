@@ -44,6 +44,21 @@
  .highlight {
    background: linear-gradient(180deg,rgba(255,255,255,0) 45%, #dfe3e5 55%);
  }
+ #work-image-grid{
+  margin-top: 5%;
+   margin-bottom: 8%;
+ }
+ .col-lg-6 {
+   padding: 2.5%;
+ }
+ .col-lg-6 img {
+   opacity: 1;
+   transition: 0.5s ease;
+   backface-visibility: hidden;
+ }
+ .thumbnailimg:hover img {
+   opacity: 0.85;
+ }
  footer {
    margin-top: 0;
  }
@@ -78,21 +93,6 @@
    padding-left:  30%;
    padding-right: 30%;
    padding-top: 3%;
- }
- #work-image-grid{
-  margin-top: 5%;
-   margin-bottom: 8%;
- }
- .col-lg-6 {
-   padding: 2.5%;
- }
- .col-lg-6 img {
-   opacity: 1;
-   transition: 0.5s ease;
-   backface-visibility: hidden;
- }
- .thumbnailimg:hover img {
-   opacity: 0.85;
  }
  #work-image-grid figcaption {
    padding-left: 8%;
